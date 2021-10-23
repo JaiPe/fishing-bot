@@ -18,3 +18,7 @@ python collect_samples.py
 ```
 * Then a screenshot will be taken and you need to crop the bobber.
 * The filename will be saved into a samples folder with the bobber position as the filename, for asserting success of the locator logic
+
+## Disclaimer
+
+This fishing bot was created as an experiment to play around with image transforms. It is intended purely for learning and I don't take any responsibility for your use of it.
